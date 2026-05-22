@@ -8,7 +8,7 @@ import streamlit as st
 
 option = st.selectbox(
     "How would you like to be contacted?",
-    ("Analisis Titrimetri", "Analisis Gravimetri"),
+    ("Menu", "Analisis Titrimetri", "Analisis Gravimetri"),
 )
 
 st.write("You selected:", option)
