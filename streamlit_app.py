@@ -375,4 +375,4 @@ def show_water_content_page():
                 \text{Kadar Air} = \frac{\text{Berat Air Teruapkan}}{\text{Berat Sampel}} \times 100\%
                 """)
                 st.latex(r"""
-                \text{Kadar Air} = \frac{(W2 - W0
+                \text{Kadar Air} = \frac{(W2 - W0)
