@@ -6,9 +6,7 @@ st.write(
 )
 import streamlit as st
 
-option = st.selectbox(
-    "How would you like to be contacted?",
-    ("Menu", "Analisis Titrimetri", "Analisis Gravimetri"),
+
 )
 
 st.write("You selected:", option)
